@@ -8,7 +8,7 @@ image: /img/blog-chemex.jpg
 ---
 <!--StartFragment-->
 
-```
+```html
 <div itemscope itemtype ="http://schema.org/Movie">
   <h1 itemprop="name">Avatar</h1>
   <div itemprop="director" itemscope itemtype="http://schema.org/Person">
